@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: coral;
+}
+
+div {
+    margin-top: 15;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: cornflowerblue;
+}
+img{
+    height: 250px;
+}
